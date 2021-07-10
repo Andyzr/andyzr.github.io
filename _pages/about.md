@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in Advanced Infrastructure System Group at Department of Civil and Environmental Engineering in Carnegie Mellon University.
 
-My current research interest is to mitigate work zone crash risk using causal inference methods based on Potential Outcome Framework and Directed Acyclic Graphs, such as Regression Discontinuity Design, sequential g-estimation methods, and linear non-gaussian acyclic model (LiNGAM).
+My research interests lie in the intersection of causal inference and machine learning. My current research project is to mitigate work zone crash risk using causal inference methods based on Potential Outcome Framework and Directed Acyclic Graphs, such as Regression Discontinuity Design, sequential g-estimation methods, and linear non-gaussian acyclic model (LiNGAM).
 
 Here is my [resume](./assets/pdf/ZhuoranZhang_resume.pdf).
 
