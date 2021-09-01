@@ -23,7 +23,7 @@ My research interests lie in the intersection of causal inference and machine le
 
 Specifically, my research questions are related to inferring the average and heterogeneous treatment effect with unmeasured confounders (e.g., using Regression Discontinuity Design, instrumental variables, and causal forest), and inferring the controlled direct effect with Rubin's generalized methods (G methods).
 
-Here is my [resume](./assets/pdf/ZhuoranZhang_resume.pdf).
+Here is my [resume](./assets/pdf/Andy_Zhuoran_Zhang_resume.pdf).
 
 ### Contact Info
 
