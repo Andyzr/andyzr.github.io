@@ -143,6 +143,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+# About publications: https://github.com/alshedivat/al-folio/discussions/864#discussioncomment-3543060
 # Extras
 github: [metadata]
 
