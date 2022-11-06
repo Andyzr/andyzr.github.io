@@ -57,15 +57,16 @@ orcid_id: # your ORCID ID
 medium_username: #andyzr # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Zhuoran-Zhang
+research_gate_profile: Zhuoran-Zhang
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
-# contact_note: >
-#  You can even add a little note about which of these is the best way to reach you.
+
+contact_note: >
+    Feel free to tweet me or drop a line via email.
 
 google_analytics: AW-10955182873 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
