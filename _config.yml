@@ -50,14 +50,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Andyzr # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: andy_zhuoran
 linkedin_username: zhuoran-zhang-809 # your LinkedIn user name
 scholar_userid: k51dHWsAAAAJ# your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: #andyzr # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Zhuoran-Zhang
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
