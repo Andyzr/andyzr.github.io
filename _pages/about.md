@@ -19,13 +19,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am a data scientist, engineering, at [Google, LLC](https://about.google/).
 
-I have board interests in Ads measurements, digital marketing, causal inference, and machine learning.
+I have board interests in Ads measurements, digital marketing, and causal inference.
 
 Previously, I completed my PhD in Civil Engineering from [Carnegie Mellon University](https://www.cmu.edu/), where I was adviserd by [Burcu Akinci](https://faculty.ce.cmu.edu/akinci/) and [Sean Qian](https://faculty.ce.cmu.edu/qian/). I worked on using causal inference with high-granular observational data to estimate and mitigate work zone impacts on crash risks.
 
 In my spare time, I enjoy doing sports (mostly swimming and running), traveling, and going on hikes with friends and family.
 
-Here is my [resume](./assets/pdf/Andy_Zhuoran_Zhang_resume.pdf).
+<!-- Here is my [resume](./assets/pdf/Andy_Zhuoran_Zhang_resume.pdf). -->
 
 ### Contact Info
 
